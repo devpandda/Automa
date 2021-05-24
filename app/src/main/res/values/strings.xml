@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Automaxx</string>
+    <string name="app_year">2021</string>
+
+    <string name="app_slogan">Qualidade em peças elétricas.</string>
+    <string name="app_cat">CATÁLOGO DIGITAL</string>
+    <string name="app_dev">Desenvolvido por MR</string>
 </resources>
